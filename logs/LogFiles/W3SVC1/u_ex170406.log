@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-06 20:07:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-06 20:07:29 192.168.0.237 HEAD /robots.txt - 80 - 192.168.2.219 - - 404 0 2 1422
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-06 21:33:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-06 21:33:39 192.168.0.237 GET / - 80 - 192.168.2.160 Mozilla/5.0 - 200 0 0 343
+2017-04-06 21:33:39 192.168.0.237 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.2.160 - - 404 0 2 0
+2017-04-06 21:33:39 192.168.0.237 GET / - 80 - 192.168.2.160 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-06 23:23:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-06 23:23:24 192.168.0.237 GET /scan/ - 80 - 192.168.2.5 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 404 0 2 187
+2017-04-06 23:23:24 192.168.0.237 GET /favicon.ico - 80 - 192.168.2.5 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://data01/scan/ 404 0 2 203

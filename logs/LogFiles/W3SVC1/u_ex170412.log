@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-12 21:17:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-12 21:17:16 192.168.0.237 HEAD /robots.txt - 80 - 192.168.2.173 - - 404 0 2 1640

@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-10 01:29:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-10 01:29:43 192.168.0.237 HEAD /robots.txt - 80 - 192.168.2.173 - - 404 0 2 1858
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-10 21:15:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-10 21:15:58 192.168.0.237 GET / - 80 - 192.168.3.44 Mozilla/5.0 - 200 0 0 1552
+2017-04-10 21:15:58 192.168.0.237 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.3.44 - - 404 0 2 33
+2017-04-10 21:15:58 192.168.0.237 GET / - 80 - 192.168.3.44 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-04-10 21:53:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-10 21:53:35 192.168.0.237 HEAD /robots.txt - 80 - 192.168.2.173 - - 404 0 2 62

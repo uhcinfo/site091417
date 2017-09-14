@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-06-22 23:16:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-06-22 23:16:37 192.168.0.237 GET / - 80 - 192.168.3.28 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.104+Safari/537.36 - 200 0 0 2114
+2017-06-22 23:16:37 192.168.0.237 GET /iis-85.png - 80 - 192.168.3.28 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.104+Safari/537.36 http://data01.uhc2010.college.local/ 200 0 0 718
+2017-06-22 23:16:38 192.168.0.237 GET /favicon.ico - 80 - 192.168.3.28 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.104+Safari/537.36 http://data01.uhc2010.college.local/ 404 0 2 281

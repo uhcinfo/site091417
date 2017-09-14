@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-06-13 21:15:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-06-13 21:15:28 192.168.0.237 OPTIONS /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 200 0 0 1266
+2017-06-13 21:15:28 192.168.0.237 PROPFIND /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 78
+2017-06-13 21:15:28 192.168.0.237 PROPFIND /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 46
+2017-06-13 21:15:28 192.168.0.237 PROPFIND /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 46
+2017-06-13 21:15:28 192.168.0.237 PROPFIND /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 31
+2017-06-13 21:15:28 192.168.0.237 PROPFIND /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 46
+2017-06-13 21:15:28 192.168.0.237 PROPFIND /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 46
+2017-06-13 21:15:28 192.168.0.237 PROPFIND /Staff_Shared$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 46
+2017-06-13 21:15:32 192.168.0.237 PROPFIND /Staff_Users$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 46
+2017-06-13 21:15:32 192.168.0.237 PROPFIND /Staff_Users$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 46
+2017-06-13 21:15:32 192.168.0.237 PROPFIND /Staff_Users$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 47
+2017-06-13 21:15:32 192.168.0.237 PROPFIND /Staff_Users$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 31
+2017-06-13 21:15:32 192.168.0.237 PROPFIND /Staff_Users$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 31
+2017-06-13 21:15:32 192.168.0.237 PROPFIND /Staff_Users$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 31
+2017-06-13 21:15:32 192.168.0.237 PROPFIND /Staff_Users$ - 80 - 192.168.3.91 Microsoft-WebDAV-MiniRedir/10.0.16215 - 404 0 2 31

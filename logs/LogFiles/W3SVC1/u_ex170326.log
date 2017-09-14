@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2017-03-26 22:28:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-03-26 22:28:11 192.168.0.237 GET / - 80 - 192.168.1.127 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 0 0 1265
+2017-03-26 22:28:11 192.168.0.237 GET /iis-85.png - 80 - 192.168.1.127 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://192.168.0.237/ 200 0 0 46
+2017-03-26 22:28:11 192.168.0.237 GET /favicon.ico - 80 - 192.168.1.127 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://192.168.0.237/ 404 0 2 234
+2017-03-26 22:28:26 192.168.0.237 GET /data - 80 - 192.168.1.127 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 404 0 2 203
+2017-03-26 22:28:33 192.168.0.237 GET /data - 80 - 192.168.1.127 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 404 0 2 203
+2017-03-26 22:30:18 192.168.0.237 HEAD /test - 80 - 192.168.1.127 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 404 0 2 203
